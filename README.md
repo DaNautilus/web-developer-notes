@@ -6,6 +6,6 @@
 
 #TypeScipt
 
-- ![Technologie](https://www.typescriptlang.org/)
-- ![Design Patterns](https://github.com/torokmark/design_patterns_in_typescript "Design Patterns")
+- [Technologie](https://www.typescriptlang.org/)
+- [Design Patterns](https://github.com/torokmark/design_patterns_in_typescript)
 
