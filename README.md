@@ -2,10 +2,14 @@
 > Useful links to awesome libraries and documents
 
 #Table of Content
+- [Generel](#Generel)
 - [TypeScipt](#TypeScipt)
 - [AngularJS](AngularJS)
   - [AngularJS 1.x](##AngularJS 1.x)
   - [AngularJS 2.x](##AngularJS 2.x)
+  
+#Generel
+- [Design Patterns](https://sourcemaking.com/design-patterns-book)
 
 #TypeScipt
 
