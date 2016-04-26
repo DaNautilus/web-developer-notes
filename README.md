@@ -3,14 +3,22 @@
 
 #Table of Content
 - [Generel](#Generel)
+- [Testing](#Testing)
 - [TypeScipt](#TypeScipt)
 - [AngularJS](AngularJS)
   - [AngularJS 1.x](##AngularJS 1.x)
   - [AngularJS 2.x](##AngularJS 2.x)
+- [NodeJS](NodeJS)
   
 #Generel
 - [Design Patterns](https://sourcemaking.com/design-patterns-book)
 - [Presentation Tool](https://github.com/hakimel/reveal.js)
+
+#Testing
+- [Test Framework - Mocha](https://mochajs.org/)
+- [Test Framework - Chai](http://chaijs.com/)
+- [BDD - Chai](http://chaijs.com/api/bdd/)
+- [Mock Library - Sinion](http://sinonjs.org/)
 
 #TypeScipt
 - [Technologie](https://www.typescriptlang.org/)
@@ -29,7 +37,7 @@
 ##AngularJS 2.x
 - [Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md)
 
-#NodeJs
+#NodeJS
 
 ##Structure
 https://gist.github.com/lancejpollard/1398757
@@ -54,11 +62,6 @@ https://gist.github.com/lancejpollard/1398757
 - Resource tool (?) => https://github.com/expressjs/express-resource
 - asynchronous operations => async.js
 - monitoring => https://keymetrics.io, http://newrelic.com/nodejs
-
-##Testing
-- mocha
-- Provides spies, stubs, and mocks for JavaScript => http://sinonjs.org/
-- A library for mocking HTTP connections => https://github.com/node-nock/nock
 
 ##Database
 - SQL query builder => http://knexjs.org/#
