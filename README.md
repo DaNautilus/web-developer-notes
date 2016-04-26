@@ -3,6 +3,7 @@
 
 #Table of Content
 - [TypeScipt](#TypeScipt)
+- [AngularJS](AngularJS)
 
 #TypeScipt
 
