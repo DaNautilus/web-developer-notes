@@ -12,7 +12,6 @@
 - [Design Patterns](https://sourcemaking.com/design-patterns-book)
 
 #TypeScipt
-
 - [Technologie](https://www.typescriptlang.org/)
 - [Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
 - [Design Patterns](https://github.com/torokmark/design_patterns_in_typescript)
@@ -21,9 +20,10 @@
 #AngularJS
 
 ##AngularJS 1.x
-
+- [Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
 - [Performance Test Snippets for Chrome](https://github.com/bahmutov/code-snippets)
 - [Performance Monitoring Tool "Batarang" for Chrome](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk?hl=en)
  
 
 ##AngularJS 2.x
+- [Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md)
