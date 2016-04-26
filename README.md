@@ -10,6 +10,7 @@
 #TypeScipt
 
 - [Technologie](https://www.typescriptlang.org/)
+- [Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md)
 - [Design Patterns](https://github.com/torokmark/design_patterns_in_typescript)
 
 #AngularJS
