@@ -10,6 +10,7 @@
   
 #Generel
 - [Design Patterns](https://sourcemaking.com/design-patterns-book)
+- [Presentation Tool](https://github.com/hakimel/reveal.js)
 
 #TypeScipt
 - [Technologie](https://www.typescriptlang.org/)
