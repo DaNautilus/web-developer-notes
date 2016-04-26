@@ -14,6 +14,7 @@
 - [Design Patterns](https://sourcemaking.com/design-patterns-book)
 - [Presentation Tool](https://github.com/hakimel/reveal.js)
 - [Semantic Versioning](http://semver.org/)
+- [CI - Travis](https://travis-ci.org/)
 
 #Testing
 - [Test Framework - Mocha](https://mochajs.org/)
