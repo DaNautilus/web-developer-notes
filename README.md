@@ -10,7 +10,7 @@
   - [AngularJS 2.x](##AngularJS 2.x)
 - [NodeJS](NodeJS)
   
-#Generel
+#General
 - [Design Patterns](https://sourcemaking.com/design-patterns-book)
 - [Presentation Tool](https://github.com/hakimel/reveal.js)
 - [Semantic Versioning](http://semver.org/)
@@ -43,6 +43,12 @@
 
 ##Structure
 https://gist.github.com/lancejpollard/1398757
+
+#CSS
+
+##Flexbox
+[bobb.io](http://ng.bobb.io/?p=20)
+[Interactive tool for learning](http://flexboxfroggy.com/)
 
 ##Tools
 - [Forever](https://github.com/foreverjs/forever)
